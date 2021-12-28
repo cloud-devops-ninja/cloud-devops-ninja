@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @cloud-devops-ninja
-- 👀 I’m interested in automating Cloud deployments, configurations and (daily) management tasks using DevOps and Everything-as-Code methods
-- 🌱 I’m currently learning different Infrastructure-as-Code (IaC) | Image-as-Code | Workspace-as-Code tooling
-- 💞️ I’m looking to collaborate on Azure focused Virtual Desktop projects
-- 📫 How to reach me T: @cdo_ninja
+- 👀 interested in automating cloud deployments | configurations | (daily) management tasks, using DevOps | Everything-as-Code
+- 🌱 currently learning different tooling focused on Infrastructure-as-Code (IaC) | Image-as-Code | Workspace-as-Code
+- 💞️ looking to collaborate on Azure focused projects: IaaS | Virtual Desktops | Image-as-Code | Windows OS management
+- 📫 T: @cdo_ninja | M: esther [at] cloud-devops [dot] ninja
 
 <!---
 cloud-devops-ninja/cloud-devops-ninja is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
